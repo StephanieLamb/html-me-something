@@ -1,6 +1,4 @@
-element.style {
 
-}
 body {
     margin: 100px 150px 100px 80px;
     padding: 50px 30px 50px 80px;
@@ -40,4 +38,16 @@ h1 {
     display: block;
     margin-left: 20%;
     margin-right: 20%;
+}
+div.cities {
+    background-color: grey;
+    color: black;
+    margin: 20px 0 20px 0;
+    padding: 20px;
+}
+#europe_map {
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    z-index: -1;
 }
